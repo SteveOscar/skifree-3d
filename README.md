@@ -49,9 +49,18 @@ fast mode).
 - **Slalom:** pass red flags on their left and blue flags on their right. Each missed gate adds 5 s.
 - **Tree Slalom:** a longer, tighter slalom through the trees.
 - **Freestyle:** style points for jumps and tricks. Set the dead tree on fire, then jump it.
+- **Extreme ◆◆:** a separate big mountain with 28–45° slopes, deep powder and cliff bands with drops of 5–25 m,
+  including The Chutes and The Hero. Drops score by height and landing, and every cliff has a line around it. Enter it
+  from the title screen or through the roped backcountry gate at the top of the classic mountain.
+- **Yeti Chase:** the yeti is on your tail from the first second and never gives up. Survive as long as you can;
+  distance and close calls score, turbo is off, and it only gets faster.
 
 Pick a course from the title screen, or ski through its start banners at the top of the mountain, just like the
 original. Best times and scores are saved in your browser.
+
+| | |
+|---|---|
+| ![Mid-air over The Hero, 25 m](screenshots/extreme-04-hero-air.jpg) | ![Yeti Chase](screenshots/chase-03-tense-chase.jpg) |
 
 ## The yeti
 
